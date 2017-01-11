@@ -1,1 +1,11 @@
 c:\users\h.prabowo\documents\visual studio 2015\Projects\SIKost\SIKost\bin\Debug\SIKost.exe.config
+C:\github\SIKost\SIKost\bin\Debug\SIKost.exe.config
+C:\github\SIKost\SIKost\bin\Debug\Database.mdf
+C:\github\SIKost\SIKost\bin\Debug\Database_log.ldf
+C:\github\SIKost\SIKost\bin\Debug\SIKost.exe
+C:\github\SIKost\SIKost\bin\Debug\SIKost.pdb
+C:\github\SIKost\SIKost\obj\Debug\SIKost.Properties.Resources.resources
+C:\github\SIKost\SIKost\obj\Debug\SIKost.csproj.GenerateResource.Cache
+C:\github\SIKost\SIKost\obj\Debug\SIKost.exe
+C:\github\SIKost\SIKost\obj\Debug\SIKost.pdb
+C:\github\SIKost\SIKost\obj\Debug\SIKost.SIKost.resources

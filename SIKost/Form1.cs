@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SIKost
 {
-    public partial class Form1 : Form
+    public partial class SIKost : Form
     {
-        public Form1()
+        public SIKost()
         {
             InitializeComponent();
         }
